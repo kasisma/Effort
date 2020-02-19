@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923971865691",
+    "firebase_url": "https://effort-991d7.firebaseio.com",
+    "project_id": "effort-991d7",
+    "storage_bucket": "effort-991d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923971865691:android:305e024642f179000d437e",
+        "android_client_info": {
+          "package_name": "com.example.effort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923971865691-kon6qtl2ol4qiq8pu03cc97g3gfhfjc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.effort",
+            "certificate_hash": "6cd6c2ec213c8107b6d31d8c9c5dc94b01fcc313"
+          }
+        },
+        {
+          "client_id": "923971865691-tb95rgt953t7ol8lghj78aidocn36p2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWa8TA-HLrMRJVtbjj41KDA52xpQdMhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923971865691-tb95rgt953t7ol8lghj78aidocn36p2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
